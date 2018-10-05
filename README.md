@@ -4,12 +4,12 @@ A list of iOS 5.3 Fellows with links to their Github accounts
 
 ## A 
 
-Alfredo Barragan https://github.com/AlfredoB212  
-Ashli Rankin https://github.com/Ashlirankin18  
-Ariel Rivera https://github.com/tawnyblvd  
-Aaron Cabreja - https://github.com/AaronCab  
-Alyson Abril [Github URL](https://github.com/alysonabril)  
-Alan Holguin - github.com/lynksdomain  
+Alfredo Barragan [](https://github.com/AlfredoB212)   
+Ashli Rankin [](https://github.com/Ashlirankin18)   
+Ariel Rivera [](https://github.com/tawnyblvd)   
+Aaron Cabreja - [](https://github.com/AaronCab)   
+Alyson Abril [Github](https://github.com/alysonabril)  
+Alan Holguin - [Github](github.com/lynksdomain)    
 
 ## B 
 
@@ -26,13 +26,14 @@ Eli Peraza [Github](https://github.com/EliPeraza)
 ## F
 
 ## G 
-Genesis Mosquera https://github.com/GMosquera1
+Genesis Mosquera [Github](https://github.com/GMosquera1)  
 
 ## H 
 
 ## I 
 
 ## J
+
 Jose Carlos [Github URL](https://github.com/josealarconchacon)
 
 Jevon Gordon [Github](https://github.com/iosdevtrainee/)  
@@ -77,11 +78,13 @@ Pritesh Nadiadhara [Github](https://github.com/PNadiadhara)
 Ramu Adamu[Github](https://github.com/ramuadamu/)  
 Raymond Donkemezuo [Github](https://github.com/Donkemezuo/)  
  
-## S Stephanie R.
+## S 
 
-## T Tingxin Li 
+Stephanie R.
 
-[Github](https://github.com/vaslee)  
+## T 
+
+Tingxin Li [Github](https://github.com/vaslee)   
 
 ## U
 
