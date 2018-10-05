@@ -16,10 +16,12 @@ Alan Holguin - github.com/lynksdomain
 ## C
 
 ## D
-Diego Estrella III - github.com/destrella3
+
+Diego Estrella III - [Github](github.com/destrella3)  
+
 ## E 
 
-Eli Peraza https://github.com/EliPeraza
+Eli Peraza [Github](https://github.com/EliPeraza)  
 
 ## F
 
@@ -30,19 +32,18 @@ Eli Peraza https://github.com/EliPeraza
 ## I 
 
 ## J 
-Jeffrey Almonte [github]nhttps://github.com/jalmonte83
 
-Jian Ting - https://github.com/JianTing-Li  
-
+Jeffrey Almonte [github](https://github.com/jalmonte83)  
+Jian Ting - [Github](https://github.com/JianTing-Li)  
 
 ## J 
 
-Jane - https://github.com/janezhu1618    
+Jane - [Github](https://github.com/janezhu1618)    
 Jabeen Cheema  
 
 ## K 
 
-Kathy Marte[github url](https://github.com/Marte14) 
+Kathy Marte[github url](https://github.com/Marte14)  
 Kevin Waring [Github URL](https://github.com/kwaring3)  
 Josbhua Viera [github](https://github.com/JoshuaViera)  
 
@@ -50,27 +51,34 @@ Josbhua Viera [github](https://github.com/JoshuaViera)
 
 ## M
 
-Matthew Huie -  https://github.com/MattHuie  
+Matthew Huie -  [Github](https://github.com/MattHuie)  
 Manolova Yusuf  [Github](https://github.com/manolovayusuf)  
 
 ## N
 
-## O  
-Olimpia Compean [GithubURL](https://github.com/Olimpia1988)  
-Oniel rosario https://github.com/onielrosario  
+Nathalie Messier [Github](github.com/natmess)    
 
-## P Pritesh Nadiadhara [Github URL](https://github.com/PNadiadhara)
+## O  
+Olimpia Compean [Github](https://github.com/Olimpia1988)   
+Oniel rosario [Github](https://github.com/onielrosario)  
+
+## P 
+
+Pritesh Nadiadhara [Github](https://github.com/PNadiadhara)
 
 ## Q
  
 ## R
 
-Ramu Adamu[Github url](https://github.com/ramuadamu/)
-Raymond Donkemezuo [github url](https://github.com/Donkemezuo/) 
+Ramu Adamu[Github](https://github.com/ramuadamu/)  
+Raymond Donkemezuo [Github](https://github.com/Donkemezuo/)  
  
 ## S 
 
-## T Tingxin Li [github url](https://github.com/vaslee)
+## T Tingxin Li 
+
+[Github](https://github.com/vaslee)  
+
 ## U
 
 ## V
