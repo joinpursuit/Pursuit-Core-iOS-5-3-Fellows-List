@@ -29,7 +29,8 @@ Alan Holguin - github.com/lynksdomain
 
 ## K 
 
-Kevin Waring [Github URL](https://github.com/kwaring3) 
+Kathy Marte[github url](https://github.com/Marte14) 
+Kevin Waring [Github URL](https://github.com/kwaring3)  
 Josbhua Viera [github](https://github.com/JoshuaViera)  
 
 ## L
