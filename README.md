@@ -21,6 +21,7 @@ A list of iOS 5.3 Fellows with links to their Github accounts
 ## I 
 
 ## J
+Jevon Gordon [Github URL](https://github.com/iosdevtrainee/)
 
 ## K
 
