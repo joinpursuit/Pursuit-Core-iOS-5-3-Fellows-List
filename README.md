@@ -9,7 +9,6 @@ Ashli Rankin [Github](https://github.com/Ashlirankin18)
 Ariel Rivera [Github](https://github.com/tawnyblvd)   
 Aaron Cabreja [Github](https://github.com/AaronCab)   
 Alyson Abril [Github](https://github.com/alysonabril)  
-Alan Holguin [Github](github.com/lynksdomain)    
 
 ## B 
 
@@ -98,4 +97,10 @@ Tingxin Li [Github](https://github.com/vaslee)
 ## Y
 
 ## Z
+
+## Instructors 
+
+Alex Paul [Github](github.com/alexpaul)
+Alan Holguin [Github](github.com/lynksdomain)    
+
 
