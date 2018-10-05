@@ -100,7 +100,7 @@ Tingxin Li [Github](https://github.com/vaslee)
 
 ## Instructors 
 
-Alex Paul [Github](github.com/alexpaul)
+Alex Paul [Github](github.com/alexpaul)  
 Alan Holguin [Github](github.com/lynksdomain)    
 
 
