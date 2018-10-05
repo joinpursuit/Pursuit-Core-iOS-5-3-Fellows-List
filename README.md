@@ -9,7 +9,7 @@ A list of iOS 5.3 Fellows with links to their Github accounts
 ## C
 
 ## D
-
+Diego Estrella III - github.com/destrella3
 ## E 
 
 ## F
