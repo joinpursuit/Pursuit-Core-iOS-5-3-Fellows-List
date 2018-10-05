@@ -31,10 +31,11 @@ Eli Peraza [Github](https://github.com/EliPeraza)
 
 ## I 
 
-## J 
+## J
 
-Jeffrey Almonte [github](https://github.com/jalmonte83)  
-Jian Ting - [Github](https://github.com/JianTing-Li)  
+Jevon Gordon [Github](https://github.com/iosdevtrainee/)  
+Jeffrey Almonte [Github](https://github.com/jalmonte83)   
+Jian Ting - [Github](https://github.com/JianTing-Li)   
 
 ## J 
 
