@@ -35,7 +35,7 @@ Alan Holguin - github.com/lynksdomain
 
 ## N
 
-## O
+## Oniel rosario https://github.com/onielrosario
 
 ## P Pritesh Nadiadhara [Github URL](https://github.com/PNadiadhara)
 
