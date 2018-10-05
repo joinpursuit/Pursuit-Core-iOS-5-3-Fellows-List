@@ -75,7 +75,7 @@ Pritesh Nadiadhara [Github](https://github.com/PNadiadhara)
 Ramu Adamu[Github](https://github.com/ramuadamu/)  
 Raymond Donkemezuo [Github](https://github.com/Donkemezuo/)  
  
-## S 
+## S Stephanie R.
 
 ## T Tingxin Li 
 
