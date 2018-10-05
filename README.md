@@ -3,9 +3,8 @@
 A list of iOS 5.3 Fellows with links to their Github accounts
 
 ## A 
-
 Alyson Abril [Github URL](https://github.com/alysonabril)
-
+Alan Holguin - github.com/lynksdomain
 ## B 
 
 ## C
@@ -34,12 +33,12 @@ Alyson Abril [Github URL](https://github.com/alysonabril)
 
 ## O
 
-## P
+## P Pritesh Nadiadhara [Github URL](https://github.com/PNadiadhara)
 
 ## Q
  
-## R
- 
+## R 
+ Raymond Donkemezuo [github url](https://github.com/Donkemezuo/) 
 ## S 
 
 ## T
