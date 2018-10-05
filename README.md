@@ -22,7 +22,7 @@ A list of iOS 5.3 Fellows with links to their Github accounts
 
 ## J
 
-## K
+## K Kevin Waring [Github URL](https://github.com/kwaring3)
 
 ## L
 
