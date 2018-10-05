@@ -29,7 +29,8 @@ Eli Peraza https://github.com/EliPeraza
 
 ## I 
 
-## J
+## J 
+Jeffrey Almonte [github]nhttps://github.com/jalmonte83
 
 Jian Ting - https://github.com/JianTing-Li  
 
