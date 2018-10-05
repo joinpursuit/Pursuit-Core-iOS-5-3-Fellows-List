@@ -1,6 +1,11 @@
 ## iOS 5.3 Fellows List
 
-A list of iOS 5.3 Fellows with links to their Github accounts
+## Instructors 
+
+Alex Paul [Github](github.com/alexpaul)  
+Alan Holguin [Github](github.com/lynksdomain) 
+
+### A list of iOS 5.3 Fellows with links to their Github accounts
 
 ## A 
 
@@ -97,10 +102,6 @@ Tingxin Li [Github](https://github.com/vaslee)
 ## Y
 
 ## Z
-
-## Instructors 
-
-Alex Paul [Github](github.com/alexpaul)  
-Alan Holguin [Github](github.com/lynksdomain)    
+   
 
 
