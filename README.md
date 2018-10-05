@@ -27,7 +27,7 @@ A list of iOS 5.3 Fellows with links to their Github accounts
 ## L
 
 ## M
-
+Matthew Huie -  https://github.com/MattHuie
 ## N
 
 ## O
