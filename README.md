@@ -21,6 +21,7 @@ A list of iOS 5.3 Fellows with links to their Github accounts
 ## I 
 
 ## J
+Jose Carlos [Github URL](https://github.com/josealarconchacon)
 
 ## K
 
