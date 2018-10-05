@@ -32,6 +32,7 @@ Eli Peraza [Github](https://github.com/EliPeraza)
 ## I 
 
 ## J
+Jose Carlos [Github URL](https://github.com/josealarconchacon)
 
 Jevon Gordon [Github](https://github.com/iosdevtrainee/)  
 Jeffrey Almonte [Github](https://github.com/jalmonte83)   
