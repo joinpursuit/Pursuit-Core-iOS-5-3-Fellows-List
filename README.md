@@ -11,6 +11,7 @@ A list of iOS 5.3 Fellows with links to their Github accounts
 ## D
 
 ## E 
+Eli Peraza https://github.com/EliPeraza
 
 ## F
 
