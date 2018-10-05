@@ -21,7 +21,7 @@ A list of iOS 5.3 Fellows with links to their Github accounts
 ## I 
 
 ## J
-
+Josbhua Viera [github](https://github.com/JoshuaViera)
 ## K
 
 ## L
