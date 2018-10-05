@@ -50,6 +50,7 @@ Kevin Waring [Github URL](https://github.com/kwaring3)
 Josbhua Viera [github](https://github.com/JoshuaViera)  
 
 ## L
+Leandro Wauters [GitHub URL](https://github.com/leandrowauters)
 
 ## M
 
