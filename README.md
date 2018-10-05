@@ -37,8 +37,11 @@ Alan Holguin - github.com/lynksdomain
 
 ## Q
  
-## R 
- Raymond Donkemezuo [github url](https://github.com/Donkemezuo/) 
+## R
+
+Ramu Adamu[Github url](https://github.com/ramuadamu/)
+Raymond Donkemezuo [github url](https://github.com/Donkemezuo/) 
+ 
 ## S 
 
 ## T
