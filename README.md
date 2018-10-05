@@ -2,7 +2,12 @@
 
 A list of iOS 5.3 Fellows with links to their Github accounts
 
-## A Ariel Rivera https://github.com/tawnyblvd
+## A   
+
+Ariel Rivera https://github.com/tawnyblvd  
+Aaron Cabreja - https://github.com/AaronCab  
+Alyson Abril [Github URL](https://github.com/alysonabril)  
+Alan Holguin - github.com/lynksdomain  
 
 ## B 
 
@@ -32,11 +37,14 @@ A list of iOS 5.3 Fellows with links to their Github accounts
 
 ## O
 
-## P
+## P Pritesh Nadiadhara [Github URL](https://github.com/PNadiadhara)
 
 ## Q
  
 ## R
+
+Ramu Adamu[Github url](https://github.com/ramuadamu/)
+Raymond Donkemezuo [github url](https://github.com/Donkemezuo/) 
  
 ## S 
 
