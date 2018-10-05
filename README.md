@@ -27,7 +27,11 @@ Eli Peraza https://github.com/EliPeraza
 
 ## I 
 
-## Jabeen Cheema 
+
+## J 
+
+Jane - https://github.com/janezhu1618    
+Jabeen Cheema  
 
 ## K 
 
