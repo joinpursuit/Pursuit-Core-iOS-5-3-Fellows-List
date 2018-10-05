@@ -20,7 +20,8 @@ A list of iOS 5.3 Fellows with links to their Github accounts
 
 ## I 
 
-## J
+## J 
+Jeffrey Almonte https://github.com/jalmonte83
 
 ## K
 
