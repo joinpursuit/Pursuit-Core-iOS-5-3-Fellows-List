@@ -37,7 +37,7 @@ A list of iOS 5.3 Fellows with links to their Github accounts
 ## Q
  
 ## R
- 
+ Ramu Adamu[Github url] (https://github.com/ramuadamu/)
 ## S 
 
 ## T
