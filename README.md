@@ -48,8 +48,9 @@ Josbhua Viera [github](https://github.com/JoshuaViera)
 ## L
 
 ## M
-Manolova Yusuf
-https://github.com/manolovayusuf
+
+Matthew Huie -  https://github.com/MattHuie  
+Manolova Yusuf  [Github](https://github.com/manolovayusuf)  
 
 ## N
 
