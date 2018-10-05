@@ -27,6 +27,8 @@ A list of iOS 5.3 Fellows with links to their Github accounts
 ## L
 
 ## M
+Manolova Yusuf
+https://github.com/manolovayusuf
 
 ## N
 
