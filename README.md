@@ -4,6 +4,7 @@ A list of iOS 5.3 Fellows with links to their Github accounts
 
 ## A   
 
+Ashli Rankin https://github.com/Ashlirankin18  
 Ariel Rivera https://github.com/tawnyblvd  
 Aaron Cabreja - https://github.com/AaronCab  
 Alyson Abril [Github URL](https://github.com/alysonabril)  
