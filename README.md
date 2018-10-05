@@ -16,7 +16,7 @@ Alan Holguin - github.com/lynksdomain
 ## C
 
 ## D
-
+Diego Estrella III - github.com/destrella3
 ## E 
 
 Eli Peraza https://github.com/EliPeraza
