@@ -26,8 +26,11 @@ Alan Holguin - github.com/lynksdomain
 ## I 
 
 ## J
-Josbhua Viera [github](https://github.com/JoshuaViera)
-## K
+
+## K 
+
+Kevin Waring [Github URL](https://github.com/kwaring3) 
+Josbhua Viera [github](https://github.com/JoshuaViera)  
 
 ## L
 
