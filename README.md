@@ -45,7 +45,7 @@ Jeffrey Almonte [Github](https://github.com/jalmonte83)
 Jian Ting [Github](https://github.com/JianTing-Li)    
 Jane [Github](https://github.com/janezhu1618)    
 Josbhua Viera [Github](https://github.com/JoshuaViera)  
-Jabeen Cheema  
+Jabeen Cheema <b>Github link missing</b>
 
 ## K 
 
@@ -82,7 +82,7 @@ Raymond Donkemezuo [Github](https://github.com/Donkemezuo/)
  
 ## S 
 
-Stephanie R.
+Stephanie R <b>Github link missing</b>  
 
 ## T 
 
