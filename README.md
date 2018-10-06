@@ -2,8 +2,8 @@
 
 ## Instructors 
 
-Alex Paul [Github](github.com/alexpaul)  
-Alan Holguin [Github](github.com/lynksdomain) 
+Alex Paul [Github](https://github.com/alexpaul)  
+Alan Holguin [Github](https://github.com/lynksdomain) 
 
 ### iOS 5.3 Fellows
 
@@ -21,7 +21,7 @@ Alyson Abril [Github](https://github.com/alysonabril)
 
 ## D
 
-Diego Estrella III [Github](github.com/destrella3)  
+Diego Estrella III [Github](http://github.com/destrella3)  
 
 ## E 
 
@@ -62,7 +62,7 @@ Manolova Yusuf [Github](https://github.com/manolovayusuf)
 
 ## N
 
-Nathalie Messier [Github](github.com/natmess)    
+Nathalie Messier [Github](https://github.com/natmess)    
 
 ## O  
 
