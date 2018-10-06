@@ -38,7 +38,7 @@ A list of iOS 5.3 Fellows with links to their Github accounts
  
 ## R
  
-## S Stephanie R.
+## S Stephanie R. [Github](https://github.com/SLRAM)
 
 ## T
 
