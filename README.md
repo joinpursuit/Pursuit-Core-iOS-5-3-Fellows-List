@@ -44,7 +44,7 @@ Jevon Gordon [Github](https://github.com/iosdevtrainee/)
 Jeffrey Almonte [Github](https://github.com/jalmonte83)   
 Jian Ting [Github](https://github.com/JianTing-Li)    
 Jane [Github](https://github.com/janezhu1618)    
-Josbhua Viera [Github](https://github.com/JoshuaViera)  
+Joshua Viera [Github](https://github.com/JoshuaViera)  
 Jabeen Cheema <b>Github link missing</b>
 
 ## K 
