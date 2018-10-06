@@ -39,24 +39,21 @@ Genesis Mosquera [Github](https://github.com/GMosquera1)
 
 ## J
 
-Jose Carlos [Github](https://github.com/josealarconchacon)
+Jose Carlos [Github](https://github.com/josealarconchacon)  
 Jevon Gordon [Github](https://github.com/iosdevtrainee/)  
 Jeffrey Almonte [Github](https://github.com/jalmonte83)   
-Jian Ting [Github](https://github.com/JianTing-Li)   
-
-## J 
-
+Jian Ting [Github](https://github.com/JianTing-Li)    
 Jane [Github](https://github.com/janezhu1618)    
+Josbhua Viera [Github](https://github.com/JoshuaViera)  
 Jabeen Cheema  
 
 ## K 
 
 Kathy Marte [Github](https://github.com/Marte14)  
 Kevin Waring [Github](https://github.com/kwaring3)  
-Josbhua Viera [Github](https://github.com/JoshuaViera)  
 
 ## L
-Leandro Wauters [GitHub](https://github.com/leandrowauters)
+Leandro Wauters [GitHub](https://github.com/leandrowauters)  
 
 ## M
 
@@ -74,7 +71,7 @@ Oniel rosario [Github](https://github.com/onielrosario)
 
 ## P 
 
-Pritesh Nadiadhara [Github](https://github.com/PNadiadhara)
+Pritesh Nadiadhara [Github](https://github.com/PNadiadhara)  
 
 ## Q
  
