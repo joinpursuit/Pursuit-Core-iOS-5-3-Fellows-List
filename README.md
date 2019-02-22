@@ -1,11 +1,11 @@
-## iOS 5.3 Fellows List
+# iOS 5.3 Fellows List
 
 ## Instructors 
 
 Alex Paul [Github](https://github.com/alexpaul)  
 Alan Holguin [Github](https://github.com/lynksdomain) 
 
-### iOS 5.3 Fellows
+## iOS 5.3 Fellows
 
 ## A 
 
@@ -100,5 +100,37 @@ Tingxin Li [Github](https://github.com/vaslee)
 
 ## Z
    
+# Unit 5 Group Project (Foursquare Clone)
 
+## Group 1
+
+[Alyson, Ibraheem, Steph](https://github.com/SLRAM/FourSquareReplica)      
+
+## Group 2
+
+[Ashli, Olimpia, Jeffrey, Josh](https://github.com/Ashlirankin18/CheckinNCheckOut)   
+
+## Group 3
+
+[Ramu, Nathalie, Oniel, Biron](https://github.com/BironSu/FourSquareClone)
+
+## Group 4
+
+[Alfredo, Jason, Jevon](https://github.com/AlfredoB212/FourSquare)
+
+## Group 5
+
+[Jabeen, Diego, Leandro, Eli](https://github.com/EliPeraza/VenueTips_GroupProject)
+
+## Group 6
+
+[Jose, Tingxin, Pritesh, Matt](https://github.com/PNadiadhara/FourCubed)
+
+## Group 7
+
+[Aaron, Kevin, Manny, Jian Ting](https://github.com/JianTing-Li/Venues_App)
+
+## Group 8
+
+[Yaz, Raymond, Jane, Genesis](https://github.com/Donkemezuo/9square)
 
