@@ -102,7 +102,7 @@ Tingxin Li [Github](https://github.com/vaslee)
    
 # Unit 5 Group Project (Foursquare Clone)
 
-## Group 1
+## Group 1 (FourSquareReplica)
 
 [Alyson, Ibraheem, Steph](https://github.com/SLRAM/FourSquareReplica)      
 
