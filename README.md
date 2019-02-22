@@ -122,7 +122,7 @@ Tingxin Li [Github](https://github.com/vaslee)
 
 [Jabeen, Diego, Leandro, Eli](https://github.com/EliPeraza/VenueTips_GroupProject)
 
-## Group 6
+## Group 6 (FourCubed)
 
 [Jose, Tingxin, Pritesh, Matt](https://github.com/PNadiadhara/FourCubed)
 
