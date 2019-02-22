@@ -118,7 +118,7 @@ Tingxin Li [Github](https://github.com/vaslee)
 
 [Alfredo, Jason, Jevon](https://github.com/AlfredoB212/FourSquare)
 
-## Group 5
+## Group 5 (VenueTips)
 
 [Jabeen, Diego, Leandro, Eli](https://github.com/EliPeraza/VenueTips_GroupProject)
 
