@@ -110,7 +110,7 @@ Tingxin Li [Github](https://github.com/vaslee)
 
 [Ashli, Olimpia, Jeffrey, Josh](https://github.com/Ashlirankin18/CheckinNCheckOut)   
 
-## Group 3
+## Group 3 (FourSquareClone)
 
 [Ramu, Nathalie, Oniel, Biron](https://github.com/BironSu/FourSquareClone)
 
