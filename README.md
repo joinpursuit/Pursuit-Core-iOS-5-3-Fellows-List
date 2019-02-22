@@ -82,7 +82,7 @@ Raymond Donkemezuo [Github](https://github.com/Donkemezuo/)
  
 ## S 
 
-Stephanie R <b>Github link missing</b>  
+Stephanie R [Github](https://github.com/SLRAM)      
 
 ## T 
 
