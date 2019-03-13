@@ -5,6 +5,9 @@
 Alex Paul [Github](https://github.com/alexpaul)  
 Alan Holguin [Github](https://github.com/lynksdomain) 
 
+## TAs 
+Iram Fattah [Github](https://github.com/Ifattah94)
+
 ## iOS 5.3 Fellows
 
 ## A 
